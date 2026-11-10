@@ -2,6 +2,28 @@
     "Assets":  [
                    {
                        "PackageId":  "Netra",
+                       "Version":  "0.1.3",
+                       "Type":  "Delta",
+                       "FileName":  "Netra-0.1.3-delta.nupkg",
+                       "SHA1":  "1E161381E1E90227A3288467783402E368B37373",
+                       "SHA256":  "2E80D6A76C0EC753D84FF9DDE0DF6C6FEF718570A861ECA362445222DB4617B1",
+                       "Size":  247604,
+                       "NotesMarkdown":  "- RDP를 끊으면 Netra가 10초 안에 이 PC 화면(HDMI)으로 저절로 되돌려, 재부팅 없이 다시 볼 수 있습니다(관리자 계정 · UAC 「알리지 않음」인 PC에서만, 관리자 권한은 이 일에만 씀).\n- RDP 안내 문구를 그에 맞게 바꿨습니다. 되돌리지 못하면 팝업에 이유를 보여 줍니다.",
+                       "NotesHTML":  "\u003cul\u003e\n\u003cli\u003eRDP를 끊으면 Netra가 10초 안에 이 PC 화면(HDMI)으로 저절로 되돌려, 재부팅 없이 다시 볼 수 있습니다(관리자 계정 · UAC 「알리지 않음」인 PC에서만, 관리자 권한은 이 일에만 씀).\u003c/li\u003e\n\u003cli\u003eRDP 안내 문구를 그에 맞게 바꿨습니다. 되돌리지 못하면 팝업에 이유를 보여 줍니다.\u003c/li\u003e\n\u003c/ul\u003e"
+                   },
+                   {
+                       "PackageId":  "Netra",
+                       "Version":  "0.1.3",
+                       "Type":  "Full",
+                       "FileName":  "Netra-0.1.3-full.nupkg",
+                       "SHA1":  "36E7D5166E2EC4691B717DABD537E3CFA61CDCD9",
+                       "SHA256":  "E9430560CB70313617A4625DBE9E77D5AD63C7E9B5051EDCAAD423B2AF95A46F",
+                       "Size":  80827853,
+                       "NotesMarkdown":  "- RDP를 끊으면 Netra가 10초 안에 이 PC 화면(HDMI)으로 저절로 되돌려, 재부팅 없이 다시 볼 수 있습니다(관리자 계정 · UAC 「알리지 않음」인 PC에서만, 관리자 권한은 이 일에만 씀).\n- RDP 안내 문구를 그에 맞게 바꿨습니다. 되돌리지 못하면 팝업에 이유를 보여 줍니다.",
+                       "NotesHTML":  "\u003cul\u003e\n\u003cli\u003eRDP를 끊으면 Netra가 10초 안에 이 PC 화면(HDMI)으로 저절로 되돌려, 재부팅 없이 다시 볼 수 있습니다(관리자 계정 · UAC 「알리지 않음」인 PC에서만, 관리자 권한은 이 일에만 씀).\u003c/li\u003e\n\u003cli\u003eRDP 안내 문구를 그에 맞게 바꿨습니다. 되돌리지 못하면 팝업에 이유를 보여 줍니다.\u003c/li\u003e\n\u003c/ul\u003e"
+                   },
+                   {
+                       "PackageId":  "Netra",
                        "Version":  "0.1.2",
                        "Type":  "Delta",
                        "FileName":  "Netra-0.1.2-delta.nupkg",
@@ -21,28 +43,6 @@
                        "Size":  80825297,
                        "NotesMarkdown":  "- 설정 창 · 팝업이 10초마다 통째로 다시 그려져 스크롤이 맨 위로 튀고 누르던 단추가 안 듣던 것을 고쳤습니다(보이는 값이 바뀔 때만 다시 그림, 스크롤 자리 유지).\n- 접속 기록: 기기 이름을 찾기 전에 끊기거나 앱이 재시작되면 끝 시각이 「지금」으로 남던 것을 고쳤습니다.\n- 보는 기기가 없을 때 팝업의 「화면 캡처」가 예전 상태로 보이던 것을 고쳤습니다(팝업을 열 때 새로 확인).",
                        "NotesHTML":  "\u003cul\u003e\n\u003cli\u003e설정 창 · 팝업이 10초마다 통째로 다시 그려져 스크롤이 맨 위로 튀고 누르던 단추가 안 듣던 것을 고쳤습니다(보이는 값이 바뀔 때만 다시 그림, 스크롤 자리 유지).\u003c/li\u003e\n\u003cli\u003e접속 기록: 기기 이름을 찾기 전에 끊기거나 앱이 재시작되면 끝 시각이 「지금」으로 남던 것을 고쳤습니다.\u003c/li\u003e\n\u003cli\u003e보는 기기가 없을 때 팝업의 「화면 캡처」가 예전 상태로 보이던 것을 고쳤습니다(팝업을 열 때 새로 확인).\u003c/li\u003e\n\u003c/ul\u003e"
-                   },
-                   {
-                       "PackageId":  "Netra",
-                       "Version":  "0.1.1",
-                       "Type":  "Delta",
-                       "FileName":  "Netra-0.1.1-delta.nupkg",
-                       "SHA1":  "6BA117AA68E4549AA4AED97823EF494C04458BAB",
-                       "SHA256":  "7E74088489FAF7CF42740863B4C054BBC2D838E7D533945AEFF2735F3C26A8F6",
-                       "Size":  202613,
-                       "NotesMarkdown":  "- 아이폰 RDP 앱으로 접속된 채 Safari로 보면 「화면이 잠겨 있습니다」로 잘못 나오던 것을 「원격 데스크톱(RDP) 접속 중」으로 고쳤습니다.\n- RDP 안내 문구를 사실대로 바꿨습니다: 이 PC는 RDP를 끊어도 화면이 로그인 화면으로 남아, PC를 다시 시작해야(자동 로그인) Netra가 다시 보입니다.",
-                       "NotesHTML":  "\u003cul\u003e\n\u003cli\u003e아이폰 RDP 앱으로 접속된 채 Safari로 보면 「화면이 잠겨 있습니다」로 잘못 나오던 것을 「원격 데스크톱(RDP) 접속 중」으로 고쳤습니다.\u003c/li\u003e\n\u003cli\u003eRDP 안내 문구를 사실대로 바꿨습니다: 이 PC는 RDP를 끊어도 화면이 로그인 화면으로 남아, PC를 다시 시작해야(자동 로그인) Netra가 다시 보입니다.\u003c/li\u003e\n\u003c/ul\u003e"
-                   },
-                   {
-                       "PackageId":  "Netra",
-                       "Version":  "0.1.1",
-                       "Type":  "Full",
-                       "FileName":  "Netra-0.1.1-full.nupkg",
-                       "SHA1":  "DB2E961EB3AF188E7B4BD938EEBE86D53BA637B8",
-                       "SHA256":  "A4A34A3BEDE5B14695AD433CEF71BD8D509DE75416A5415DA4EA2BCF4EF0AB9A",
-                       "Size":  80820984,
-                       "NotesMarkdown":  "- 아이폰 RDP 앱으로 접속된 채 Safari로 보면 「화면이 잠겨 있습니다」로 잘못 나오던 것을 「원격 데스크톱(RDP) 접속 중」으로 고쳤습니다.\n- RDP 안내 문구를 사실대로 바꿨습니다: 이 PC는 RDP를 끊어도 화면이 로그인 화면으로 남아, PC를 다시 시작해야(자동 로그인) Netra가 다시 보입니다.",
-                       "NotesHTML":  "\u003cul\u003e\n\u003cli\u003e아이폰 RDP 앱으로 접속된 채 Safari로 보면 「화면이 잠겨 있습니다」로 잘못 나오던 것을 「원격 데스크톱(RDP) 접속 중」으로 고쳤습니다.\u003c/li\u003e\n\u003cli\u003eRDP 안내 문구를 사실대로 바꿨습니다: 이 PC는 RDP를 끊어도 화면이 로그인 화면으로 남아, PC를 다시 시작해야(자동 로그인) Netra가 다시 보입니다.\u003c/li\u003e\n\u003c/ul\u003e"
                    }
                ]
 }
