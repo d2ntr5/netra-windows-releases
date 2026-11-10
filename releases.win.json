@@ -1,0 +1,15 @@
+{
+    "Assets":  [
+                   {
+                       "PackageId":  "Netra",
+                       "Version":  "0.1.0",
+                       "Type":  "Full",
+                       "FileName":  "Netra-0.1.0-full.nupkg",
+                       "SHA1":  "0798B23952DABE8D5D5D0439A195C4949B3A12D2",
+                       "SHA256":  "CB2F693A9B6FAD3A941AD4571867803EC8D5430D6FE0D8B246456FFD97671161",
+                       "Size":  80821846,
+                       "NotesMarkdown":  "- 첫 윈도우판: 아이폰 · 아이패드 Safari에서 Tailscale로 이 PC 화면을 보고 조작합니다(RDP 대신 쓰는 비상구, RDP는 그대로 둠).\n- 앱 안에서 화면을 캡처(Desktop Duplication)하고 VNC(RFB, Tight JPEG)로 보냅니다. VNC 서버 · 서비스 설치 없음, 관리자 권한 없음.\n- 웹 화면은 맥 Netra와 같은 noVNC 1.7.0 + Netra 덧입힘(트랙패드 · 모니터 고르기 · 확대 · 클립보드). 보조 키는 Ctrl · Alt · Win · Tab · Esc · 화살표 · Win+Tab · Win+D · Alt+F4.\n- 들어오기: Tailscale 계정 허용 목록(처음엔 이 PC의 Tailscale 계정) + 윈도우 계정 암호(확인만 하고 저장하지 않음, 5번 틀리면 5분 기다림).\n- 127.0.0.1:6080에서만 듣고, 밖은 `tailscale serve`(tailnet 전용 HTTPS)로만. 팝업에서 「지금 설정」으로 켭니다.\n- 잠금 화면 · UAC · RDP 접속 중이면 이유를 보여 줍니다(이때는 RDP로). 보는 기기가 있는 동안 잠자기를 막습니다.\n- 알림 영역 아이콘 · 팝업(접속 주소 QR · 지금 보는 기기 · 준비 상태) · 설정(일반 · 접속 · 업데이트 · 정보) · 앱 안 업데이트(Velopack).",
+                       "NotesHTML":  "\u003cul\u003e\n\u003cli\u003e첫 윈도우판: 아이폰 · 아이패드 Safari에서 Tailscale로 이 PC 화면을 보고 조작합니다(RDP 대신 쓰는 비상구, RDP는 그대로 둠).\u003c/li\u003e\n\u003cli\u003e앱 안에서 화면을 캡처(Desktop Duplication)하고 VNC(RFB, Tight JPEG)로 보냅니다. VNC 서버 · 서비스 설치 없음, 관리자 권한 없음.\u003c/li\u003e\n\u003cli\u003e웹 화면은 맥 Netra와 같은 noVNC 1.7.0 + Netra 덧입힘(트랙패드 · 모니터 고르기 · 확대 · 클립보드). 보조 키는 Ctrl · Alt · Win · Tab · Esc · 화살표 · Win+Tab · Win+D · Alt+F4.\u003c/li\u003e\n\u003cli\u003e들어오기: Tailscale 계정 허용 목록(처음엔 이 PC의 Tailscale 계정) + 윈도우 계정 암호(확인만 하고 저장하지 않음, 5번 틀리면 5분 기다림).\u003c/li\u003e\n\u003cli\u003e127.0.0.1:6080에서만 듣고, 밖은 \u003ccode\u003etailscale serve\u003c/code\u003e(tailnet 전용 HTTPS)로만. 팝업에서 「지금 설정」으로 켭니다.\u003c/li\u003e\n\u003cli\u003e잠금 화면 · UAC · RDP 접속 중이면 이유를 보여 줍니다(이때는 RDP로). 보는 기기가 있는 동안 잠자기를 막습니다.\u003c/li\u003e\n\u003cli\u003e알림 영역 아이콘 · 팝업(접속 주소 QR · 지금 보는 기기 · 준비 상태) · 설정(일반 · 접속 · 업데이트 · 정보) · 앱 안 업데이트(Velopack).\u003c/li\u003e\n\u003c/ul\u003e"
+                   }
+               ]
+}
