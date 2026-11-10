@@ -2,6 +2,28 @@
     "Assets":  [
                    {
                        "PackageId":  "Netra",
+                       "Version":  "0.1.2",
+                       "Type":  "Delta",
+                       "FileName":  "Netra-0.1.2-delta.nupkg",
+                       "SHA1":  "BD11C6381393BA8A5240A4279E8490F3BB4FC30E",
+                       "SHA256":  "2963EBA428377B172D999B5257E0888792F0BA997407F6A2F46188DF58E67456",
+                       "Size":  267688,
+                       "NotesMarkdown":  "- 설정 창 · 팝업이 10초마다 통째로 다시 그려져 스크롤이 맨 위로 튀고 누르던 단추가 안 듣던 것을 고쳤습니다(보이는 값이 바뀔 때만 다시 그림, 스크롤 자리 유지).\n- 접속 기록: 기기 이름을 찾기 전에 끊기거나 앱이 재시작되면 끝 시각이 「지금」으로 남던 것을 고쳤습니다.\n- 보는 기기가 없을 때 팝업의 「화면 캡처」가 예전 상태로 보이던 것을 고쳤습니다(팝업을 열 때 새로 확인).",
+                       "NotesHTML":  "\u003cul\u003e\n\u003cli\u003e설정 창 · 팝업이 10초마다 통째로 다시 그려져 스크롤이 맨 위로 튀고 누르던 단추가 안 듣던 것을 고쳤습니다(보이는 값이 바뀔 때만 다시 그림, 스크롤 자리 유지).\u003c/li\u003e\n\u003cli\u003e접속 기록: 기기 이름을 찾기 전에 끊기거나 앱이 재시작되면 끝 시각이 「지금」으로 남던 것을 고쳤습니다.\u003c/li\u003e\n\u003cli\u003e보는 기기가 없을 때 팝업의 「화면 캡처」가 예전 상태로 보이던 것을 고쳤습니다(팝업을 열 때 새로 확인).\u003c/li\u003e\n\u003c/ul\u003e"
+                   },
+                   {
+                       "PackageId":  "Netra",
+                       "Version":  "0.1.2",
+                       "Type":  "Full",
+                       "FileName":  "Netra-0.1.2-full.nupkg",
+                       "SHA1":  "5C410213C92D8F90F48DBE0153F3EE2A6DEC85BE",
+                       "SHA256":  "03680907DD223EDE529CFC1C07DA469964C16A81A9E034FF929B58314C722BFB",
+                       "Size":  80825297,
+                       "NotesMarkdown":  "- 설정 창 · 팝업이 10초마다 통째로 다시 그려져 스크롤이 맨 위로 튀고 누르던 단추가 안 듣던 것을 고쳤습니다(보이는 값이 바뀔 때만 다시 그림, 스크롤 자리 유지).\n- 접속 기록: 기기 이름을 찾기 전에 끊기거나 앱이 재시작되면 끝 시각이 「지금」으로 남던 것을 고쳤습니다.\n- 보는 기기가 없을 때 팝업의 「화면 캡처」가 예전 상태로 보이던 것을 고쳤습니다(팝업을 열 때 새로 확인).",
+                       "NotesHTML":  "\u003cul\u003e\n\u003cli\u003e설정 창 · 팝업이 10초마다 통째로 다시 그려져 스크롤이 맨 위로 튀고 누르던 단추가 안 듣던 것을 고쳤습니다(보이는 값이 바뀔 때만 다시 그림, 스크롤 자리 유지).\u003c/li\u003e\n\u003cli\u003e접속 기록: 기기 이름을 찾기 전에 끊기거나 앱이 재시작되면 끝 시각이 「지금」으로 남던 것을 고쳤습니다.\u003c/li\u003e\n\u003cli\u003e보는 기기가 없을 때 팝업의 「화면 캡처」가 예전 상태로 보이던 것을 고쳤습니다(팝업을 열 때 새로 확인).\u003c/li\u003e\n\u003c/ul\u003e"
+                   },
+                   {
+                       "PackageId":  "Netra",
                        "Version":  "0.1.1",
                        "Type":  "Delta",
                        "FileName":  "Netra-0.1.1-delta.nupkg",
@@ -21,17 +43,6 @@
                        "Size":  80820984,
                        "NotesMarkdown":  "- 아이폰 RDP 앱으로 접속된 채 Safari로 보면 「화면이 잠겨 있습니다」로 잘못 나오던 것을 「원격 데스크톱(RDP) 접속 중」으로 고쳤습니다.\n- RDP 안내 문구를 사실대로 바꿨습니다: 이 PC는 RDP를 끊어도 화면이 로그인 화면으로 남아, PC를 다시 시작해야(자동 로그인) Netra가 다시 보입니다.",
                        "NotesHTML":  "\u003cul\u003e\n\u003cli\u003e아이폰 RDP 앱으로 접속된 채 Safari로 보면 「화면이 잠겨 있습니다」로 잘못 나오던 것을 「원격 데스크톱(RDP) 접속 중」으로 고쳤습니다.\u003c/li\u003e\n\u003cli\u003eRDP 안내 문구를 사실대로 바꿨습니다: 이 PC는 RDP를 끊어도 화면이 로그인 화면으로 남아, PC를 다시 시작해야(자동 로그인) Netra가 다시 보입니다.\u003c/li\u003e\n\u003c/ul\u003e"
-                   },
-                   {
-                       "PackageId":  "Netra",
-                       "Version":  "0.1.0",
-                       "Type":  "Full",
-                       "FileName":  "Netra-0.1.0-full.nupkg",
-                       "SHA1":  "0798B23952DABE8D5D5D0439A195C4949B3A12D2",
-                       "SHA256":  "CB2F693A9B6FAD3A941AD4571867803EC8D5430D6FE0D8B246456FFD97671161",
-                       "Size":  80821846,
-                       "NotesMarkdown":  "- 첫 윈도우판: 아이폰 · 아이패드 Safari에서 Tailscale로 이 PC 화면을 보고 조작합니다(RDP 대신 쓰는 비상구, RDP는 그대로 둠).\n- 앱 안에서 화면을 캡처(Desktop Duplication)하고 VNC(RFB, Tight JPEG)로 보냅니다. VNC 서버 · 서비스 설치 없음, 관리자 권한 없음.\n- 웹 화면은 맥 Netra와 같은 noVNC 1.7.0 + Netra 덧입힘(트랙패드 · 모니터 고르기 · 확대 · 클립보드). 보조 키는 Ctrl · Alt · Win · Tab · Esc · 화살표 · Win+Tab · Win+D · Alt+F4.\n- 들어오기: Tailscale 계정 허용 목록(처음엔 이 PC의 Tailscale 계정) + 윈도우 계정 암호(확인만 하고 저장하지 않음, 5번 틀리면 5분 기다림).\n- 127.0.0.1:6080에서만 듣고, 밖은 `tailscale serve`(tailnet 전용 HTTPS)로만. 팝업에서 「지금 설정」으로 켭니다.\n- 잠금 화면 · UAC · RDP 접속 중이면 이유를 보여 줍니다(이때는 RDP로). 보는 기기가 있는 동안 잠자기를 막습니다.\n- 알림 영역 아이콘 · 팝업(접속 주소 QR · 지금 보는 기기 · 준비 상태) · 설정(일반 · 접속 · 업데이트 · 정보) · 앱 안 업데이트(Velopack).",
-                       "NotesHTML":  "\u003cul\u003e\n\u003cli\u003e첫 윈도우판: 아이폰 · 아이패드 Safari에서 Tailscale로 이 PC 화면을 보고 조작합니다(RDP 대신 쓰는 비상구, RDP는 그대로 둠).\u003c/li\u003e\n\u003cli\u003e앱 안에서 화면을 캡처(Desktop Duplication)하고 VNC(RFB, Tight JPEG)로 보냅니다. VNC 서버 · 서비스 설치 없음, 관리자 권한 없음.\u003c/li\u003e\n\u003cli\u003e웹 화면은 맥 Netra와 같은 noVNC 1.7.0 + Netra 덧입힘(트랙패드 · 모니터 고르기 · 확대 · 클립보드). 보조 키는 Ctrl · Alt · Win · Tab · Esc · 화살표 · Win+Tab · Win+D · Alt+F4.\u003c/li\u003e\n\u003cli\u003e들어오기: Tailscale 계정 허용 목록(처음엔 이 PC의 Tailscale 계정) + 윈도우 계정 암호(확인만 하고 저장하지 않음, 5번 틀리면 5분 기다림).\u003c/li\u003e\n\u003cli\u003e127.0.0.1:6080에서만 듣고, 밖은 \u003ccode\u003etailscale serve\u003c/code\u003e(tailnet 전용 HTTPS)로만. 팝업에서 「지금 설정」으로 켭니다.\u003c/li\u003e\n\u003cli\u003e잠금 화면 · UAC · RDP 접속 중이면 이유를 보여 줍니다(이때는 RDP로). 보는 기기가 있는 동안 잠자기를 막습니다.\u003c/li\u003e\n\u003cli\u003e알림 영역 아이콘 · 팝업(접속 주소 QR · 지금 보는 기기 · 준비 상태) · 설정(일반 · 접속 · 업데이트 · 정보) · 앱 안 업데이트(Velopack).\u003c/li\u003e\n\u003c/ul\u003e"
                    }
                ]
 }
