@@ -2,6 +2,28 @@
     "Assets":  [
                    {
                        "PackageId":  "Netra",
+                       "Version":  "0.1.1",
+                       "Type":  "Delta",
+                       "FileName":  "Netra-0.1.1-delta.nupkg",
+                       "SHA1":  "6BA117AA68E4549AA4AED97823EF494C04458BAB",
+                       "SHA256":  "7E74088489FAF7CF42740863B4C054BBC2D838E7D533945AEFF2735F3C26A8F6",
+                       "Size":  202613,
+                       "NotesMarkdown":  "- 아이폰 RDP 앱으로 접속된 채 Safari로 보면 「화면이 잠겨 있습니다」로 잘못 나오던 것을 「원격 데스크톱(RDP) 접속 중」으로 고쳤습니다.\n- RDP 안내 문구를 사실대로 바꿨습니다: 이 PC는 RDP를 끊어도 화면이 로그인 화면으로 남아, PC를 다시 시작해야(자동 로그인) Netra가 다시 보입니다.",
+                       "NotesHTML":  "\u003cul\u003e\n\u003cli\u003e아이폰 RDP 앱으로 접속된 채 Safari로 보면 「화면이 잠겨 있습니다」로 잘못 나오던 것을 「원격 데스크톱(RDP) 접속 중」으로 고쳤습니다.\u003c/li\u003e\n\u003cli\u003eRDP 안내 문구를 사실대로 바꿨습니다: 이 PC는 RDP를 끊어도 화면이 로그인 화면으로 남아, PC를 다시 시작해야(자동 로그인) Netra가 다시 보입니다.\u003c/li\u003e\n\u003c/ul\u003e"
+                   },
+                   {
+                       "PackageId":  "Netra",
+                       "Version":  "0.1.1",
+                       "Type":  "Full",
+                       "FileName":  "Netra-0.1.1-full.nupkg",
+                       "SHA1":  "DB2E961EB3AF188E7B4BD938EEBE86D53BA637B8",
+                       "SHA256":  "A4A34A3BEDE5B14695AD433CEF71BD8D509DE75416A5415DA4EA2BCF4EF0AB9A",
+                       "Size":  80820984,
+                       "NotesMarkdown":  "- 아이폰 RDP 앱으로 접속된 채 Safari로 보면 「화면이 잠겨 있습니다」로 잘못 나오던 것을 「원격 데스크톱(RDP) 접속 중」으로 고쳤습니다.\n- RDP 안내 문구를 사실대로 바꿨습니다: 이 PC는 RDP를 끊어도 화면이 로그인 화면으로 남아, PC를 다시 시작해야(자동 로그인) Netra가 다시 보입니다.",
+                       "NotesHTML":  "\u003cul\u003e\n\u003cli\u003e아이폰 RDP 앱으로 접속된 채 Safari로 보면 「화면이 잠겨 있습니다」로 잘못 나오던 것을 「원격 데스크톱(RDP) 접속 중」으로 고쳤습니다.\u003c/li\u003e\n\u003cli\u003eRDP 안내 문구를 사실대로 바꿨습니다: 이 PC는 RDP를 끊어도 화면이 로그인 화면으로 남아, PC를 다시 시작해야(자동 로그인) Netra가 다시 보입니다.\u003c/li\u003e\n\u003c/ul\u003e"
+                   },
+                   {
+                       "PackageId":  "Netra",
                        "Version":  "0.1.0",
                        "Type":  "Full",
                        "FileName":  "Netra-0.1.0-full.nupkg",
