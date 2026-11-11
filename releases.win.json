@@ -2,6 +2,28 @@
     "Assets":  [
                    {
                        "PackageId":  "Netra",
+                       "Version":  "0.1.6",
+                       "Type":  "Delta",
+                       "FileName":  "Netra-0.1.6-delta.nupkg",
+                       "SHA1":  "24690BC55D3AF82289CE742A3895AE85DC0B3B58",
+                       "SHA256":  "661EA0858D89EF5AD5613A3A9C95AC98CF8AEA2D78A658FD71CF5A23DD3B21F5",
+                       "Size":  241497,
+                       "NotesMarkdown":  "- 앱을 켠 뒤 화면 구성이 바뀌면(RDP로 접속 · 모니터를 켜고 끔) 팝업이 화면 밖에 떠 「실행해도 안 열리는」 것처럼 보이던 것을 고쳤습니다. 이제 팝업을 열 때마다 지금 주 모니터의 시계 위에 뜹니다.\n- RDP를 끊은 뒤 이 PC 화면으로 되돌리지 못하면 그 이유를 오류 기록에 남깁니다.",
+                       "NotesHTML":  "\u003cul\u003e\n\u003cli\u003e앱을 켠 뒤 화면 구성이 바뀌면(RDP로 접속 · 모니터를 켜고 끔) 팝업이 화면 밖에 떠 「실행해도 안 열리는」 것처럼 보이던 것을 고쳤습니다. 이제 팝업을 열 때마다 지금 주 모니터의 시계 위에 뜹니다.\u003c/li\u003e\n\u003cli\u003eRDP를 끊은 뒤 이 PC 화면으로 되돌리지 못하면 그 이유를 오류 기록에 남깁니다.\u003c/li\u003e\n\u003c/ul\u003e"
+                   },
+                   {
+                       "PackageId":  "Netra",
+                       "Version":  "0.1.6",
+                       "Type":  "Full",
+                       "FileName":  "Netra-0.1.6-full.nupkg",
+                       "SHA1":  "F9C3ABA1138F1270DBA264E88DD0F030191B5006",
+                       "SHA256":  "C35DEBBB55D0A8BE3254627C75A9FBC53DB893C0A71BFDBF10FFC1EAFA78C6BC",
+                       "Size":  80830293,
+                       "NotesMarkdown":  "- 앱을 켠 뒤 화면 구성이 바뀌면(RDP로 접속 · 모니터를 켜고 끔) 팝업이 화면 밖에 떠 「실행해도 안 열리는」 것처럼 보이던 것을 고쳤습니다. 이제 팝업을 열 때마다 지금 주 모니터의 시계 위에 뜹니다.\n- RDP를 끊은 뒤 이 PC 화면으로 되돌리지 못하면 그 이유를 오류 기록에 남깁니다.",
+                       "NotesHTML":  "\u003cul\u003e\n\u003cli\u003e앱을 켠 뒤 화면 구성이 바뀌면(RDP로 접속 · 모니터를 켜고 끔) 팝업이 화면 밖에 떠 「실행해도 안 열리는」 것처럼 보이던 것을 고쳤습니다. 이제 팝업을 열 때마다 지금 주 모니터의 시계 위에 뜹니다.\u003c/li\u003e\n\u003cli\u003eRDP를 끊은 뒤 이 PC 화면으로 되돌리지 못하면 그 이유를 오류 기록에 남깁니다.\u003c/li\u003e\n\u003c/ul\u003e"
+                   },
+                   {
+                       "PackageId":  "Netra",
                        "Version":  "0.1.5",
                        "Type":  "Delta",
                        "FileName":  "Netra-0.1.5-delta.nupkg",
@@ -21,28 +43,6 @@
                        "Size":  80829491,
                        "NotesMarkdown":  "- 알림 영역 아이콘을 오른쪽 클릭하면 「설정…」이 있습니다. 팝업의 톱니와 같이, 새 버전이 있으면 업데이트 탭으로 열려 바로 업데이트할 수 있습니다.",
                        "NotesHTML":  "\u003cul\u003e\n\u003cli\u003e알림 영역 아이콘을 오른쪽 클릭하면 「설정…」이 있습니다. 팝업의 톱니와 같이, 새 버전이 있으면 업데이트 탭으로 열려 바로 업데이트할 수 있습니다.\u003c/li\u003e\n\u003c/ul\u003e"
-                   },
-                   {
-                       "PackageId":  "Netra",
-                       "Version":  "0.1.4",
-                       "Type":  "Delta",
-                       "FileName":  "Netra-0.1.4-delta.nupkg",
-                       "SHA1":  "D11871C09D5E9853245F2C9A6648797A89EC7D78",
-                       "SHA256":  "F3C675C48E6DAC25CD6771DC5BAF27FDDCC19A74F466913080A0BF8161B4B4D8",
-                       "Size":  252197,
-                       "NotesMarkdown":  "- 모니터 이름을 「모니터 1 · 2」 대신 모델명(예: MPG 491C OLED · HDP-V104)으로 보여 줍니다. 웹에서 고른 모니터가 주 모니터가 바뀌어도(모니터를 끄고 켬) 그대로 남습니다.\n- 설정 › 접속에서 포트 「적용」 · 계정 「더하기」를 누른 뒤 esc · Ctrl+= 가 듣지 않던 것을 고쳤습니다.",
-                       "NotesHTML":  "\u003cul\u003e\n\u003cli\u003e모니터 이름을 「모니터 1 · 2」 대신 모델명(예: MPG 491C OLED · HDP-V104)으로 보여 줍니다. 웹에서 고른 모니터가 주 모니터가 바뀌어도(모니터를 끄고 켬) 그대로 남습니다.\u003c/li\u003e\n\u003cli\u003e설정 › 접속에서 포트 「적용」 · 계정 「더하기」를 누른 뒤 esc · Ctrl+= 가 듣지 않던 것을 고쳤습니다.\u003c/li\u003e\n\u003c/ul\u003e"
-                   },
-                   {
-                       "PackageId":  "Netra",
-                       "Version":  "0.1.4",
-                       "Type":  "Full",
-                       "FileName":  "Netra-0.1.4-full.nupkg",
-                       "SHA1":  "547CF220B8BE44D8B9CE9A9B0ACE4E355E5781EF",
-                       "SHA256":  "B4EBB472950B40127A5F9E5BF62ADFD80F090DFB9B2D8325138C5CEFDDAA8B76",
-                       "Size":  80829433,
-                       "NotesMarkdown":  "- 모니터 이름을 「모니터 1 · 2」 대신 모델명(예: MPG 491C OLED · HDP-V104)으로 보여 줍니다. 웹에서 고른 모니터가 주 모니터가 바뀌어도(모니터를 끄고 켬) 그대로 남습니다.\n- 설정 › 접속에서 포트 「적용」 · 계정 「더하기」를 누른 뒤 esc · Ctrl+= 가 듣지 않던 것을 고쳤습니다.",
-                       "NotesHTML":  "\u003cul\u003e\n\u003cli\u003e모니터 이름을 「모니터 1 · 2」 대신 모델명(예: MPG 491C OLED · HDP-V104)으로 보여 줍니다. 웹에서 고른 모니터가 주 모니터가 바뀌어도(모니터를 끄고 켬) 그대로 남습니다.\u003c/li\u003e\n\u003cli\u003e설정 › 접속에서 포트 「적용」 · 계정 「더하기」를 누른 뒤 esc · Ctrl+= 가 듣지 않던 것을 고쳤습니다.\u003c/li\u003e\n\u003c/ul\u003e"
                    }
                ]
 }
