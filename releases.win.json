@@ -2,6 +2,28 @@
     "Assets":  [
                    {
                        "PackageId":  "Netra",
+                       "Version":  "0.1.7",
+                       "Type":  "Delta",
+                       "FileName":  "Netra-0.1.7-delta.nupkg",
+                       "SHA1":  "8E34E82CB17AC5266DDA0E5F37BFB504FEE12D16",
+                       "SHA256":  "5F9C560BF6E74C09DD2E286380D7C15E3D0BAD333E9609F0FF465C8727A49CBE",
+                       "Size":  234436,
+                       "NotesMarkdown":  "- 설정 › 업데이트의 새 버전 상자에서 「나중에 · 업데이트…」 단추를 제목 줄 오른쪽 끝으로 옮겼습니다(아래 「업데이트 확인…」과 같은 세로줄).",
+                       "NotesHTML":  "\u003cul\u003e\n\u003cli\u003e설정 › 업데이트의 새 버전 상자에서 「나중에 · 업데이트…」 단추를 제목 줄 오른쪽 끝으로 옮겼습니다(아래 「업데이트 확인…」과 같은 세로줄).\u003c/li\u003e\n\u003c/ul\u003e"
+                   },
+                   {
+                       "PackageId":  "Netra",
+                       "Version":  "0.1.7",
+                       "Type":  "Full",
+                       "FileName":  "Netra-0.1.7-full.nupkg",
+                       "SHA1":  "46231899AE103BFA85D7DB00BB8389D9A9A13355",
+                       "SHA256":  "C9A4225C2AAA7F3592656B53EAB68C04F97AB3F45C59EB4A83A7B05ADC78A966",
+                       "Size":  80830483,
+                       "NotesMarkdown":  "- 설정 › 업데이트의 새 버전 상자에서 「나중에 · 업데이트…」 단추를 제목 줄 오른쪽 끝으로 옮겼습니다(아래 「업데이트 확인…」과 같은 세로줄).",
+                       "NotesHTML":  "\u003cul\u003e\n\u003cli\u003e설정 › 업데이트의 새 버전 상자에서 「나중에 · 업데이트…」 단추를 제목 줄 오른쪽 끝으로 옮겼습니다(아래 「업데이트 확인…」과 같은 세로줄).\u003c/li\u003e\n\u003c/ul\u003e"
+                   },
+                   {
+                       "PackageId":  "Netra",
                        "Version":  "0.1.6",
                        "Type":  "Delta",
                        "FileName":  "Netra-0.1.6-delta.nupkg",
@@ -21,28 +43,6 @@
                        "Size":  80830293,
                        "NotesMarkdown":  "- 앱을 켠 뒤 화면 구성이 바뀌면(RDP로 접속 · 모니터를 켜고 끔) 팝업이 화면 밖에 떠 「실행해도 안 열리는」 것처럼 보이던 것을 고쳤습니다. 이제 팝업을 열 때마다 지금 주 모니터의 시계 위에 뜹니다.\n- RDP를 끊은 뒤 이 PC 화면으로 되돌리지 못하면 그 이유를 오류 기록에 남깁니다.",
                        "NotesHTML":  "\u003cul\u003e\n\u003cli\u003e앱을 켠 뒤 화면 구성이 바뀌면(RDP로 접속 · 모니터를 켜고 끔) 팝업이 화면 밖에 떠 「실행해도 안 열리는」 것처럼 보이던 것을 고쳤습니다. 이제 팝업을 열 때마다 지금 주 모니터의 시계 위에 뜹니다.\u003c/li\u003e\n\u003cli\u003eRDP를 끊은 뒤 이 PC 화면으로 되돌리지 못하면 그 이유를 오류 기록에 남깁니다.\u003c/li\u003e\n\u003c/ul\u003e"
-                   },
-                   {
-                       "PackageId":  "Netra",
-                       "Version":  "0.1.5",
-                       "Type":  "Delta",
-                       "FileName":  "Netra-0.1.5-delta.nupkg",
-                       "SHA1":  "E47C0A1BFBD96AED55900060208198E3EA2BD75E",
-                       "SHA256":  "7171205F09DFC76985FD4D883E15C96150122B0698902107D91F1F218BE1291E",
-                       "Size":  238032,
-                       "NotesMarkdown":  "- 알림 영역 아이콘을 오른쪽 클릭하면 「설정…」이 있습니다. 팝업의 톱니와 같이, 새 버전이 있으면 업데이트 탭으로 열려 바로 업데이트할 수 있습니다.",
-                       "NotesHTML":  "\u003cul\u003e\n\u003cli\u003e알림 영역 아이콘을 오른쪽 클릭하면 「설정…」이 있습니다. 팝업의 톱니와 같이, 새 버전이 있으면 업데이트 탭으로 열려 바로 업데이트할 수 있습니다.\u003c/li\u003e\n\u003c/ul\u003e"
-                   },
-                   {
-                       "PackageId":  "Netra",
-                       "Version":  "0.1.5",
-                       "Type":  "Full",
-                       "FileName":  "Netra-0.1.5-full.nupkg",
-                       "SHA1":  "A0731B2668944F60B28B3DB9120012F7570A8D21",
-                       "SHA256":  "4D4559BA9E521751B2F8723BB243D9033CF53E005E211A2DBF6498EC6B0CC367",
-                       "Size":  80829491,
-                       "NotesMarkdown":  "- 알림 영역 아이콘을 오른쪽 클릭하면 「설정…」이 있습니다. 팝업의 톱니와 같이, 새 버전이 있으면 업데이트 탭으로 열려 바로 업데이트할 수 있습니다.",
-                       "NotesHTML":  "\u003cul\u003e\n\u003cli\u003e알림 영역 아이콘을 오른쪽 클릭하면 「설정…」이 있습니다. 팝업의 톱니와 같이, 새 버전이 있으면 업데이트 탭으로 열려 바로 업데이트할 수 있습니다.\u003c/li\u003e\n\u003c/ul\u003e"
                    }
                ]
 }
