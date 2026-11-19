@@ -2,6 +2,28 @@
     "Assets":  [
                    {
                        "PackageId":  "Netra",
+                       "Version":  "0.1.9",
+                       "Type":  "Delta",
+                       "FileName":  "Netra-0.1.9-delta.nupkg",
+                       "SHA1":  "D3CB54EA58D7F6C136C793E8B3173282C2C6A97E",
+                       "SHA256":  "C83254966B3CB6DF9F97E2F975EAF6A35DEA073BFD8A662AFDFAB1CD4360A0E6",
+                       "Size":  219027,
+                       "NotesMarkdown":  "- 설정 › 업데이트의 새 버전 상자 주 단추 이름을 「업데이트…」에서 「업데이트」로 바꿨습니다(모든 앱 공통).",
+                       "NotesHTML":  "\u003cul\u003e\n\u003cli\u003e설정 › 업데이트의 새 버전 상자 주 단추 이름을 「업데이트…」에서 「업데이트」로 바꿨습니다(모든 앱 공통).\u003c/li\u003e\n\u003c/ul\u003e"
+                   },
+                   {
+                       "PackageId":  "Netra",
+                       "Version":  "0.1.9",
+                       "Type":  "Full",
+                       "FileName":  "Netra-0.1.9-full.nupkg",
+                       "SHA1":  "7E8513B9A70AE5CDA15A80E9B2BAE9137C2F8BA8",
+                       "SHA256":  "CA8E4401258BEBD15AE87E9D3AA477D9829A951F7802A23989C0EA8E341D0E89",
+                       "Size":  80975688,
+                       "NotesMarkdown":  "- 설정 › 업데이트의 새 버전 상자 주 단추 이름을 「업데이트…」에서 「업데이트」로 바꿨습니다(모든 앱 공통).",
+                       "NotesHTML":  "\u003cul\u003e\n\u003cli\u003e설정 › 업데이트의 새 버전 상자 주 단추 이름을 「업데이트…」에서 「업데이트」로 바꿨습니다(모든 앱 공통).\u003c/li\u003e\n\u003c/ul\u003e"
+                   },
+                   {
+                       "PackageId":  "Netra",
                        "Version":  "0.1.8",
                        "Type":  "Delta",
                        "FileName":  "Netra-0.1.8-delta.nupkg",
@@ -21,28 +43,6 @@
                        "Size":  80975638,
                        "NotesMarkdown":  "- 시작 메뉴 · 바탕 화면 · 작업 표시줄에서 Netra만 윈도우 기본(파란 창) 아이콘으로 보이던 것을 고쳤습니다. 앱 아이콘 파일이 깨져 있었습니다.",
                        "NotesHTML":  "\u003cul\u003e\n\u003cli\u003e시작 메뉴 · 바탕 화면 · 작업 표시줄에서 Netra만 윈도우 기본(파란 창) 아이콘으로 보이던 것을 고쳤습니다. 앱 아이콘 파일이 깨져 있었습니다.\u003c/li\u003e\n\u003c/ul\u003e"
-                   },
-                   {
-                       "PackageId":  "Netra",
-                       "Version":  "0.1.7",
-                       "Type":  "Delta",
-                       "FileName":  "Netra-0.1.7-delta.nupkg",
-                       "SHA1":  "8E34E82CB17AC5266DDA0E5F37BFB504FEE12D16",
-                       "SHA256":  "5F9C560BF6E74C09DD2E286380D7C15E3D0BAD333E9609F0FF465C8727A49CBE",
-                       "Size":  234436,
-                       "NotesMarkdown":  "- 설정 › 업데이트의 새 버전 상자에서 「나중에 · 업데이트…」 단추를 제목 줄 오른쪽 끝으로 옮겼습니다(아래 「업데이트 확인…」과 같은 세로줄).",
-                       "NotesHTML":  "\u003cul\u003e\n\u003cli\u003e설정 › 업데이트의 새 버전 상자에서 「나중에 · 업데이트…」 단추를 제목 줄 오른쪽 끝으로 옮겼습니다(아래 「업데이트 확인…」과 같은 세로줄).\u003c/li\u003e\n\u003c/ul\u003e"
-                   },
-                   {
-                       "PackageId":  "Netra",
-                       "Version":  "0.1.7",
-                       "Type":  "Full",
-                       "FileName":  "Netra-0.1.7-full.nupkg",
-                       "SHA1":  "46231899AE103BFA85D7DB00BB8389D9A9A13355",
-                       "SHA256":  "C9A4225C2AAA7F3592656B53EAB68C04F97AB3F45C59EB4A83A7B05ADC78A966",
-                       "Size":  80830483,
-                       "NotesMarkdown":  "- 설정 › 업데이트의 새 버전 상자에서 「나중에 · 업데이트…」 단추를 제목 줄 오른쪽 끝으로 옮겼습니다(아래 「업데이트 확인…」과 같은 세로줄).",
-                       "NotesHTML":  "\u003cul\u003e\n\u003cli\u003e설정 › 업데이트의 새 버전 상자에서 「나중에 · 업데이트…」 단추를 제목 줄 오른쪽 끝으로 옮겼습니다(아래 「업데이트 확인…」과 같은 세로줄).\u003c/li\u003e\n\u003c/ul\u003e"
                    }
                ]
 }
